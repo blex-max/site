@@ -1,8 +1,8 @@
 site_name: blex.bio
 site_description: Scientist–programmer building bioinformatics infrastructure.
 site_url: https://blex.bio
-repo_url: https://github.com/blex
-repo_name: site test
+repo_url: https://github.com/blex-max
+repo_name: GitHub
 copyright: "© Alex Byrne"
 
 theme:
@@ -22,7 +22,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/blex
+      link: https://github.com/blex-max
     - icon: material/email
       link: mailto:alex@blex.bio
 
