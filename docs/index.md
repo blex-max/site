@@ -3,7 +3,7 @@
 **Alex Byrne** — scientist-programmer in computational genomics.  
 I build infrastructure for scripting scientists and bioinformatics tooling.
 
-- GitHub: [blex](https://github.com/blex)
+- GitHub: [blex](https://github.com/blex-max)
 - Email: [alex@blex.bio](mailto:alex@blex.bio)
 
 ## What I do
