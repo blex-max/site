@@ -1,0 +1,51 @@
+site_name: blex.bio
+site_description: Scientist–programmer building bioinformatics infrastructure.
+site_url: https://blex.bio
+repo_url: https://github.com/blex
+repo_name: site test
+copyright: "© Alex Byrne"
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+  icon:
+    repo: fontawesome/brands/github
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/blex
+    - icon: material/email
+      link: mailto:alex@blex.bio
+
+plugins:
+  - search
+  - minify
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+      enable_creation_date: true
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.emoji
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Notes:
+      - Overview: notes/_index.md
+      - First post: notes/first-post.md
