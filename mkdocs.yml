@@ -8,12 +8,12 @@ copyright: "© Alex Byrne"
 theme:
   name: terminal
 
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/blex-max
-    - icon: material/email
-      link: mailto:alex@blex.bio
+# extra:
+#   social:
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/blex-max
+#     - icon: material/email
+#       link: mailto:alex@blex.bio
 
 nav:
   - Home: index.md
