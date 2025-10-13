@@ -1,16 +1,18 @@
 # blex.bio
 
 **Alex Byrne** — scientist-programmer in computational genomics.  
-I build infrastructure for scripting scientists and bioinformatics tooling.
 
 - GitHub: [blex-max](https://github.com/blex-max)
 - Email: [alex@blex.bio](mailto:alex@blex.bio)
 
 ## What I do
-- tooling for WGBS, variant calling, artefact detection
-- strong typing
+Mostly development and scaling of algorithms for mutation-driven processes, usually cancer.
 
 ## Selected projects
-- **hairpin2** — WGBS hairpin pipeline (design notes, reproducibility).
+Coming Soon!
 
 See the [Projects](projects.md) page for details.
+
+## Favourite Blogposts
+
+I am yet to upload any, but soon!
