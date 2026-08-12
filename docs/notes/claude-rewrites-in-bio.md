@@ -60,13 +60,14 @@ I can't claim to know if these authors (if that is even the correct word) are be
 genuinely cynical, or if they feel this is a legitimate contribution to the academic world. I almost hope
 the former, as it's at least the less tragic option - for whatever that's worth. I also want to
 stress that I'm not suggesting if you use AI in development that you're fundamentally evil etc. Hopefully
-the specific nature of my objections makes that clear.
+the specific nature of my objections makes that clear - I am referring only to those projects which
+are, clearly, 90%+ Claude (and whatever model writes the LinkedIn posts).
 
 Finally, and I'm entirely cribbing from [Casey Muratori](https://www.computerenhance.com/) here,
 but it bears repeating that this is not a particularly compelling or interesting test of AI's
 capability to further research. If you provide Claude with a complete working program you
 have essentially given it the most extensive spec you possibly could. This is not hard or difficult
-work for the AI (nor the authors).
+work for the AI (nor the authors). There is nothing emergent in it.
 
 
 *My own usage notwithstanding, there are moral arguments to be made; they're just not the point of this post.
