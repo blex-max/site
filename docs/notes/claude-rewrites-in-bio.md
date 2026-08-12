@@ -18,8 +18,8 @@ tragically misguided.
 
 **Objection 1**:  
 In many cases, these efforts could have been offered as pull requests. This would have been more in the
-spirit of collaboration and would have created a lot less technical debt. Instead, there are now in
-various cases two repos rather than one, with potentially divergent future trajectories. The realist
+spirit of collaboration and would have created a lot less technical debt. Instead, there are now
+two repos rather than one, with potentially divergent future trajectories. The realist
 in me will admit that any pull requests opened on a bioinformatic algorithm would most likely have
 been ignored entirely, but that problem is not solved by having Claude translate the repo into an
 alternate language. The cynic in me will note that a new repo, and possible publication, looks a lot
@@ -28,6 +28,7 @@ more impressive than a pull request.
 It also strikes me that it can't be a positive experience to produce and maintain a tool, the product
 of years of work and learning, only to wake up some day and discover that someone has had the
 bright idea of pointing Claude at it - and is now claiming that work as their own for having done so.
+I am dramatising here though.
 
 **Objection 2**:  
 If Claude goes away, can these tools be maintained? Is there even any intention of doing so? Did
@@ -38,7 +39,7 @@ of proliferating articles like
 [AI Assistance Reduces Persistence and Hurts Independent Performance](https://arxiv.org/pdf/2604.04721)
 looms large.
 
-Bioinformatics already has an unfortunate tendency to treat software as disposable, single-publication objects.
+Research already has an unfortunate tendency to treat software as disposable, single-publication objects.
 The ability to point Claude at an existing repository and, as if by magic, get an ostensibly working product
 out the other end is not helping. I've spent far too much time in the last couple of years clearing up
 after projects that thought they could get ahead with AI, and ended up with a tool that was totally
@@ -49,7 +50,7 @@ What, if anything, was learned from this work? The point, I naively hope, of aca
 Human in the collective sense, all of us, but also human in the individual sense.
 The effort made in solving hard problems is what trains a good researcher.
 Becoming deeply involved with a problem is what allows us to develop new and insightful solutions (not to mention identify and prevent mistakes).
-The output alone is truly and tangibly not the whole in research, and to ignore that is short-termism at its absolute worst.
+The output alone is truly and tangibly not the whole, and to ignore that is short-termism at its absolute worst.
 
 This one is I think the most important.
 
