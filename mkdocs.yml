@@ -7,6 +7,13 @@ copyright: "© Alex Byrne"
 
 theme:
   name: terminal
+  features:
+    # The sidebar table of contents just relisted the page's own headings,
+    # linking back to anchors on the page you were already reading.
+    - navigation.side.toc.hide
+
+extra_css:
+  - css/extra.css
 
 # extra:
 #   social:
@@ -20,4 +27,4 @@ nav:
   - Projects: projects.md
   - Posts:
       - Overview: notes/_index.md
-      - Short-termisim in academia, or "I got Claude to rewrite this in Rust!": notes/claude-rewrites-in-bio.md
+      - Short-termism in academia, or "I got Claude to rewrite this in Rust!": notes/claude-rewrites-in-bio.md

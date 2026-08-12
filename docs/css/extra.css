@@ -1,0 +1,32 @@
+/*
+ * Layout overrides for Terminal for MkDocs.
+ *
+ * Loaded after the theme's own styles (base.html includes partials/styles.html
+ * first, then extra_css), so these win on source order.
+ */
+
+/*
+ * Theme ships --page-width: 60em (terminal.css). At the theme's 15px base
+ * that's a 900px container, and the two-column grid leaves prose in a ~65
+ * character column. Widen the whole page instead.
+ *
+ * Tune this one number to taste: larger = wider text column.
+ */
+:root {
+  --page-width: 90%;
+}
+
+/*
+ * The theme sets `grid-template-columns: 4fr 9fr` in an inline <style>, so the
+ * nav column stretches proportionally with the container. Pin nav to a fixed
+ * width and let the content take the rest.
+ *
+ * Must stay inside the theme's own 70em breakpoint: media queries add no
+ * specificity, so an unwrapped rule would also clobber the narrow-screen
+ * single-column fallback.
+ */
+@media only screen and (min-width: 70em) {
+  .terminal-mkdocs-main-grid {
+    grid-template-columns: 18em 1fr;
+  }
+}

@@ -16,7 +16,7 @@ tragically misguided.
 
 ---
 
-Objection 1:
+**Objection 1**:  
 In many cases, these efforts could have been offered as pull requests. This would have been more in the
 spirit of collaboration and would have created a lot less technical debt. Instead, there are now in
 various cases two repos rather than one, with potentially divergent future trajectories. The realist
@@ -29,7 +29,7 @@ It also strikes me that it can't be a positive experience to produce and maintai
 of years of work and learning, only to wake up some day and discover that someone has had the
 bright idea of pointing Claude at it - and is now claiming that work as their own for having done so.
 
-Objection 2:
+**Objection 2**:  
 If Claude goes away, can these tools be maintained? Is there even any intention of doing so? Did
 the author actually learn to write performant Rust in the process? If not, then all these projects
 are creating is e-waste. I would imagine some of the authors might protest that they did learn
@@ -44,12 +44,14 @@ out the other end is not helping. I've spent far too much time in the last coupl
 after projects that thought they could get ahead with AI, and ended up with a tool that was totally
 unmaintainable, produced the wrong results, or both.
 
-Objection 3:
+**Objection 3**:  
 What, if anything, was learned from this work? The point, I naively hope, of academic research is to further human knowledge.
 Human in the collective sense, all of us, but also human in the individual sense.
 The effort made in solving hard problems is what trains a good researcher.
 Becoming deeply involved with a problem is what allows us to develop new and insightful solutions (not to mention identify and prevent mistakes).
 The output alone is truly and tangibly not the whole in research, and to ignore that is short-termism at its absolute worst.
+
+This one is I think the most important.
 
 ---
 
@@ -66,4 +68,4 @@ have essentially given it the most extensive spec you possibly could. This is no
 work for the AI (nor the authors).
 
 
-*My own usage aside, there are moral arguments to be made; they're just not the point of this post.
+*My own usage notwithstanding, there are moral arguments to be made; they're just not the point of this post.
