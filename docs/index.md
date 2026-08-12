@@ -1,18 +1,10 @@
 # blex.bio
 
-**Alex Byrne** — scientist-programmer in computational genomics.  
+**Alex Byrne** — Software Engineer for Computational Genomics.  
 
-- GitHub: [blex-max](https://github.com/blex-max)
-- Email: [alex@blex.bio](mailto:alex@blex.bio)
+- GitHub: [blex-max](https://github.com/blex-max) (that's my public work, at least)
+- Email: My name, at this domain.
 
 ## What I do
-Mostly development and scaling of algorithms for mutation-driven processes, usually cancer.
 
-## Selected projects
-Coming Soon!
-
-See the [Projects](projects.md) page for details.
-
-## Favourite Blogposts
-
-I am yet to upload any, but soon!
+Mostly development and scaling of algorithms for mutation-driven processes, like cancer. I try to squeeze as much performance as I can out them, and ensure they're actually giving the right results (rarely guaranteed).
