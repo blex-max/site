@@ -5,11 +5,11 @@ that "I [Claude] and my team [Claude] translated X bioinformatic tool into X-rs 
 I finally reached my tipping point and am now compelled to ragepost about it.
 
 To be clear, I have no qualm with Rust, or, at least in principle, using AI in software development. I
-use AI quite regularly myself, and I think without it I may not have been able to find much of the
-knowledge I now rely on. I've heard AI called "glorified Google search" in a pejorative sense; in
-fact that is by far the most utopian and democratising facet of its abilities. And I certainly
-agree that we should try to make bioinformatic algorithms more performant. I've firmly planted
-my flag on that point throughout my career. All this to say that I'm not attempting to make a moral
+use AI quite regularly myself mostly as a search tool, and I think without it I may not have been able
+to locate much of the knowledge I now rely on. I've heard AI called "glorified Google search" in a
+pejorative sense; in fact that is by far the most utopian and democratising facet of its abilities.
+And I certainly agree that we should try to make bioinformatic algorithms more performant. I've firmly
+planted my flag on that point throughout my career. All this to say that I'm not attempting to make a moral
 argument against the use of AI*, or to argue that the outcome, a faster algorithm, is any bad thing.
 But the process by which these projects are being created seems to me either deeply cynical, or
 tragically misguided.
