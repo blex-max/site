@@ -27,4 +27,5 @@ nav:
   - Projects: projects.md
   - Posts:
       - Overview: notes/_index.md
+      - AI as a Weapon Against You: notes/ai-as-weapon.md
       - Short-termism in academia, or "I got Claude to rewrite this in Rust!": notes/claude-rewrites-in-bio.md
