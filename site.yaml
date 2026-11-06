@@ -1,7 +1,7 @@
 site-name: blex.moi
 lang: en
 description-meta: Possibly, opinions on software engineering.
-footer: "© Alex Byrne · [blex-max on GitHub](https://github.com/blex-max)"
+footer: "© Alex T. Byrne · [blex-max on GitHub](https://github.com/blex-max)"
 
 nav:
   - title: Home
