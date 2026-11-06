@@ -1,10 +1,10 @@
 # blex.moi
 
-**Alex Byrne** — Software Engineer for Computational Genomics.  
+**atb** — Software Engineer and Interface Designer.  
+
+Mostly working on tool and algorithm development for computational genomics and medical research.
 
 - GitHub: [blex-max](https://github.com/blex-max) (that's my public work, at least)
-- Email: My name, at this domain.
+- Email: My initials, at this domain.
 
-## What I do
-
-Mostly development and scaling of algorithms for mutation-driven processes, like cancer. I try to squeeze as much performance as I can out them, and ensure they're actually giving the right results (rarely guaranteed).
+I also occasionally blog here.
