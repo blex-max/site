@@ -1,4 +1,4 @@
-name: Deploy MkDocs to GitHub Pages
+name: Deploy site to GitHub Pages
 
 on:
   push:
@@ -14,16 +14,18 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+env:
+  PANDOC_VERSION: "3.13"
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - run: pip install -r requirements.txt
-      - run: mkdocs build --strict
+      - run: |
+          wget -q "https://github.com/jgm/pandoc/releases/download/${PANDOC_VERSION}/pandoc-${PANDOC_VERSION}-1-amd64.deb"
+          sudo dpkg -i "pandoc-${PANDOC_VERSION}-1-amd64.deb"
+      - run: ./build.sh
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./site

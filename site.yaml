@@ -1,0 +1,17 @@
+site-name: blex.moi
+lang: en
+description-meta: Possibly, opinions on software engineering.
+footer: "© Alex Byrne · [blex-max on GitHub](https://github.com/blex-max)"
+
+nav:
+  - title: Home
+    page: index.md
+  - title: Projects
+    page: projects.md
+  - title: Posts
+    page: notes/_index.md
+    children:
+      - title: AI as a Weapon Against You
+        page: notes/ai-as-a-weapon-against-us.md
+      - title: Short-termism in academia, or "I got Claude to rewrite this in Rust!"
+        page: notes/claude-rewrites-in-bio.md

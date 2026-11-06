@@ -1,4 +1,4 @@
-# blex.bio
+# blex.moi
 
 **Alex Byrne** — Software Engineer for Computational Genomics.  
 
