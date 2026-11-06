@@ -1,6 +1,6 @@
-# blex.moi
+# blex
 
-**blex** — Software Engineer and Interface Designer.  
+Software Engineer and Interface Designer.  
 
 Mostly working on tool and algorithm development for computational genomics and medical research.
 
